@@ -1,8 +1,8 @@
-class HomeScreen {}
+
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
-import '../models/task.dart';
+import '../modules/task_dart.dart';
 import '../widgets/task_tile.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -44,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void addTask(String title) {
     if (title.trim().isEmpty) return;
     setState(() {
-      tasks.add(Task(title: title));
+      tasks.add(Task(id: DateTime.now().millisecondsSinceEpoch.toString(), title: title));
     });
     saveTasks();
     controller.clear();
