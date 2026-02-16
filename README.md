@@ -1,16 +1,6 @@
 # flutter_todo_app_group8
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to Run the app:
+Clone the repository to your machine: git clone https://github.com/tina-codertz/flutter-todo-app-group8.git
+Navigate to the project folder: cd flutter-todo-app-group8
+Install the required Flutter dependencies: flutter pub get
+Run the app: flutter run
