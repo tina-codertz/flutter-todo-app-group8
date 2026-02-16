@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+##Group Members
 
-This project is a starting point for a Flutter application.
+| Name                      | Registration Number|
+|---------------------------|-------------------|
+| Christina Justine Kimario | 31703/T.2023      |
+| Cirilo Henry Villarta     | 31705/T.2023      |
+| Patrick Niboye            | 30284/T.2023      |
+| Marlon Barnabas Nkonya    | 31202/T.2023      |
+| Sabra Panduka             | 30780/T.2023      |
+| Pilly Linox Norasko       | 31309/T.2023      |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
