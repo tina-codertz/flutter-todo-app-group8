@@ -18,3 +18,9 @@ Clone the repository to your machine: git clone https://github.com/tina-codertz/
 Navigate to the project folder: cd flutter-todo-app-group8
 Install the required Flutter dependencies: flutter pub get
 Run the app: flutter run
+
+Technologies Used:
+Flutter
+Dart
+VS Code
+Git & GitHub
