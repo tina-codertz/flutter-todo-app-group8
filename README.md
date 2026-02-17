@@ -13,6 +13,11 @@ A new Flutter project.
 | Sabra Panduka             | 30780/T.2023      |
 | Pilly Linox Norasko       | 31309/T.2023      |
 
+## Project Description
+Flutter Todo App is a mobile application developed using Flutter that allows users to manage daily tasks efficiently. 
+Users can create, update, delete, and mark tasks as completed. 
+The app is designed to improve productivity and task organization.
+
 How to Run the app:
 Clone the repository to your machine: git clone https://github.com/tina-codertz/flutter-todo-app-group8.git
 Navigate to the project folder: cd flutter-todo-app-group8
